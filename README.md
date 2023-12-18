@@ -1,5 +1,4 @@
 # DIO - Trilha .NET - Testes Unitários com C#
-www.dio.me
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
@@ -78,4 +77,4 @@ O projeto está estruturado da seguinte maneira:
 
 
 ## Solução
-O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.# CSharp-Test-Unitario
+O código de testes está completo, incluindo os testes descritos acima. Os testes são funcionais e foram implementados de acordo com as regras estabelecidas no projeto CSharp-Test-Unitario.
